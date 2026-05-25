@@ -1,4 +1,4 @@
-BLDC motor fault detection
+## BLDC motor fault detection
 
 ## Overview
 This project focuses on Signal and Image Processing using Deep Learning techniques for BLDC motor sound classification. The system processes audio signals, extracts frequency-domain features, generates Mel Spectrograms, and applies Convolutional Neural Networks (CNNs) for condition detection and classification.
